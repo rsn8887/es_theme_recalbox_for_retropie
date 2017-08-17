@@ -30,7 +30,7 @@ The intention is to preserve gaming history by preventing vintage games from bei
 		</text>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="band1" extra="true">
 			<color>00ADEF</color>
 		</image>

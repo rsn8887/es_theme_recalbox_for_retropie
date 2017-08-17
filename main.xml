@@ -52,7 +52,7 @@
 		</text>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="background" extra="true">
 			<tile>true</tile>
 			<size>1 1</size>
@@ -135,7 +135,7 @@
 		</image>
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 		<image name="backtext2" extra="true">
 			<pos>0.02 0.19</pos>
 			<size>0.4 0.735</size>

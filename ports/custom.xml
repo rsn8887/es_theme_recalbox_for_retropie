@@ -33,7 +33,7 @@ Doom is one of the pioneering FPS games, introducing to IBM-compatible computers
 		</text>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="band1" extra="true">
 			<color>33709F</color>
 		</image>

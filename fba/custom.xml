@@ -26,7 +26,7 @@ FBA is an open-source project and it is programmed by a group of people known as
 		</text>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="band1" extra="true">
 			<color>CF8A61</color>
 		</image>

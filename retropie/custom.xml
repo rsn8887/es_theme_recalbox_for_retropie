@@ -36,7 +36,7 @@
 
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="band1" extra="true">
 			<color>CB2027</color>
 		</image>

@@ -62,7 +62,7 @@
 		</text>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="band1" extra="true">
 			<color>5C67A9</color>
 		</image>

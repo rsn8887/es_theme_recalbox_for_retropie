@@ -2,6 +2,7 @@
 	<formatVersion>4</formatVersion>
 	<include>./../main.xml</include>
 	<include>./custom.xml</include>
+	<include>./../theme.xml</include>
 
 	<view name="system">
 		<image name="logo">
@@ -27,7 +28,7 @@
 		</image>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
 			<pos>0.02 0.17</pos>
@@ -60,7 +61,7 @@
 		</image>
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 		<image name="backtext2" extra="true">
 			<color>9F9F9F</color>
 		</image>
